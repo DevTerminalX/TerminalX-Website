@@ -16,8 +16,8 @@ Fully customizable design for Base44 and TerminalX branding
 Simple file structure for easy modification and deployment
 
 Project Structure
-Code
-/
+Code/
+
 ├── public/
 │   └── assets/
 ├── src/
